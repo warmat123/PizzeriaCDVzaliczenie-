@@ -1,2 +1,2 @@
-###Pizzeria #C###ool #D###ope #V###isit
+#Pizzeria #Cool #Dope #Vsit
 Repozytorium zawierające dokumenty i pliki na zaliczenie 
