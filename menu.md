@@ -23,4 +23,5 @@ jak się masz
 |||||
 |2    |WŁOSZKA                                                  |            |    28| |    
 |     |( mozzarela, sos pomidorowy, bazylia, szynka prossciuto, rukola).|  |  |  
+---
 
