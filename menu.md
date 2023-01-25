@@ -21,3 +21,6 @@ jak się masz
 |1    |AMERYCZKA                                             |           |     34|
 |      |(Papryka  jalapenio,kukurydza, karmelizowany boczek, ser cheddar, sos Pomidorowo-BBQ, Chetosy serowe). |    |   |
 |||||
+|2    |WŁOSZKA                                                  |            |    28| |      |
+( mozzarela, sos pomidorowy, bazylia, szynka prossciuto, rukola).  
+
