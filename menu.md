@@ -21,8 +21,6 @@ jak się masz
 |||||
 |2    |WŁOSZKA                                                  |            |    28| |    
 |     |( mozzarela, sos pomidorowy, bazylia, szynka prossciuto, rukola).|  |  |  
----
-
 |3    |POLACZEK 	                                        |          |      37|
 |      |(cebula, kiełbasa, papryka czerwona, sos czosnkowo-serowy, kukurydza.                          |           |        |
 |-----|--------------------------------------------------------|---------|--------|
