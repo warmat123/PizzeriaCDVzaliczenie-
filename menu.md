@@ -23,3 +23,6 @@ jak się masz
 |     |( mozzarela, sos pomidorowy, bazylia, szynka prossciuto, rukola).|  |  |  
 ---
 
+|3    |POLACZEK 	                                        |          |      37|
+|      |(cebula, kiełbasa, papryka czerwona, sos czosnkowo-serowy, kukurydza.                          |           |        |
+|-----|--------------------------------------------------------|---------|--------|
