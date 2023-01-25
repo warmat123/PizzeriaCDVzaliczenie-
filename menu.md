@@ -5,9 +5,9 @@
 |      |--------------------------------------------------------|---------|--------|
 |2    |WŁOSZKA                                                  |            |    28| |      |
 ( mozzarela, sos pomidorowy, bazylia, szynka prossciuto, rukola).  
-|-----|--------------------------------------------------------|---------|--------|                                          |3    |POLACZEK 	                                        |          |      37|
+|-----|--------------------------------------------------------|---------|--------|  
+|3    |POLACZEK 	                                        |          |      37|
 |      |(cebula, kiełbasa, papryka czerwona, sos czosnkowo-serowy, kukurydza.                          |           |        |
-|-----|--------------------------------------------------------|---------|--------|
 |4    | BYCZEK                                                    |           |     35|
 |      |( chorizzo, sos pomidoro-chilli, oliwki, papryka czerwona, ser buffalo).                                                        |           || |-----|--------------------------------------------------------|---------|--------|5     |SZKOT                                                       |           |     33|
 |      |( wędzona szynka, sos na bazie whiksy, ser lazur, szpinak, suszone pomidory w oleju).                 |           |         |
