@@ -11,6 +11,10 @@
 |      |(Papryka  jalapenio,kukurydza, karmelizowany boczek, ser cheddar, sos Pomidorowo-BBQ, Chetosy serowe). |    |   |
 
 
+|Woda|         |                                                      |               
+|          | GAZ| 				NIEGAZ   |
+|          |ŚREDNIA 0,5|                         DUŻA 0,7|
+|          |5|                                             	   8|
 
 
 |Lp.|                   |                                                                                     Cena| 
