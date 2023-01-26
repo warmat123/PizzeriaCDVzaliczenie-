@@ -1,3 +1,17 @@
+
+ |Herbata| Cena  |
+|---|---|
+|420|12|
+|zielona| |
+|Betty|10
+|czarna|  |
+|HAZE|12|
+|cytrynowa| |
+|Hipis|12|
+|jaśminowa| |
+|Cough| 12|
+|owocowa| |
+
 <img src="img/adult-gef0810fb7_1920.jpg" width=300>
 
 
